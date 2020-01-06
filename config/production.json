@@ -1,0 +1,6 @@
+{
+  "port": 8000,
+  "jwtSecret": "ldfgadfg346sjs78@",
+  "mongoUri": "mongodb+srv://oleg:345634763dhe678v@cluster0-8wopt.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:8000"
+}
